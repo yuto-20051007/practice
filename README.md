@@ -15,5 +15,63 @@
     <p>ゲームやプログラミングが好きです。</p>
 
 </body>
+<head>
+    <meta charset="UTF-8">
+    <title>さらに表示</title>
+
+    <style>
+
+        details {
+            width: 600px;
+            margin: 50px auto;
+        }
+
+        summary {
+            display: inline-block;
+            padding: 15px 20px;
+            background-color: #f3f2ef;
+            border-radius: 8px;
+            font-weight: bold;
+            cursor: pointer;
+            list-style: none;
+        }
+
+        summary:hover {
+            background-color: #e5e5e5;
+        }
+
+        .news-item {
+            padding: 20px 0;
+            border-bottom: 1px solid #ccc;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <details>
+
+        <summary>さらに表示 ＋</summary>
+
+        <div class="news-item">
+            <p>2026/08/18</p>
+            <p>AIについてのニュース</p>
+        </div>
+
+        <div class="news-item">
+            <p>2026/08/17</p>
+            <p>大学からのお知らせ</p>
+        </div>
+
+        <div class="news-item">
+            <p>2026/08/13</p>
+            <p>イベントについて</p>
+        </div>
+
+    </details>
+
+</body>
 </html>
 
