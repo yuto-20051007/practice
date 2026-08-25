@@ -16,7 +16,7 @@
             display: inline-block;
             padding: 15px 20px;
             background-color: #f3f2ef;
-            border-radius: 8px;
+            border-radius: 16px;
             font-weight: bold;
             cursor: pointer;
             list-style: none;
