@@ -9,7 +9,7 @@
     <style>
         details {
             width: 600px;
-            margin: 50px auto;
+            margin: 80px 20px;
         }
 
         summary {
