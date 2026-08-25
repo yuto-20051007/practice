@@ -52,7 +52,7 @@
     <div class="news-item">
         <p>2026/08/18</p>
         <p>
-            <a href="ai.html">
+            <a href="https://chibatech.ac.jp/news/imolkd0000005bhg-att/20260427.pdf">
                 AIについてのニュース
             </a>
         </p>
