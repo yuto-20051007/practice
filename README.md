@@ -47,24 +47,36 @@
 
     <details>
 
-        <summary>さらに表示 ＋</summary>
+    <summary>さらに表示 ＋</summary>
 
-        <div class="news-item">
-            <p>2026/08/18</p>
-            <p>AIについてのニュース</p>
-        </div>
+    <div class="news-item">
+        <p>2026/08/18</p>
+        <p>
+            <a href="ai.html">
+                AIについてのニュース
+            </a>
+        </p>
+    </div>
 
-        <div class="news-item">
-            <p>2026/08/17</p>
-            <p>大学からのお知らせ</p>
-        </div>
+    <div class="news-item">
+        <p>2026/08/17</p>
+        <p>
+            <a href="university.html">
+                大学からのお知らせ
+            </a>
+        </p>
+    </div>
 
-        <div class="news-item">
-            <p>2026/08/13</p>
-            <p>イベントについて</p>
-        </div>
+    <div class="news-item">
+        <p>2026/08/13</p>
+        <p>
+            <a href="event.html">
+                イベントについて
+            </a>
+        </p>
+    </div>
 
-    </details>
+</details>
 
 </body>
 
